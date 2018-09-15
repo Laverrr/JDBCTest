@@ -20,7 +20,7 @@ import java.lang.reflect.Field;
  * 1.代码的可读性和可维护性。
  * 2.PreparedStatement尽最大可能提高性能。
  * 3.极大的提高了安全性。
- * @author garyxuan
+ * @author 
  * @version 1.0.0
  */
 public class JDBCUtil {
